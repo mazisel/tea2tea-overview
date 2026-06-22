@@ -36,3 +36,7 @@ A modern single-admin e-commerce storefront and management panel designed for sm
 
 Detaylı bilgi ve işbirliği için iletişime geçin.  
 For detailed information and collaboration, please contact us.
+
+
+---
+*Last updated: June 2026*
